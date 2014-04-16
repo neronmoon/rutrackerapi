@@ -9,7 +9,7 @@
 
 include_once 'Rutracker.php';
 
-$r = new Rutracker('<login>', '<pass>');
+$r = new RutrackerAPI('<login>', '<pass>');
 
 $r->findUser('<login>');
 

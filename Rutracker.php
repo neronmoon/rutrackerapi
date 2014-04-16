@@ -3,18 +3,7 @@
  * Created by #ROOT.
  * to contact me use skype" => neronmoon
  */
-
-function dd()
-{
-
-//    echo "<pre>";
-    foreach (func_get_args() as $v) {
-        print_r($v);
-    }
-
-}
-
-class Rutracker
+class RutrackerAPI
 {
 
     private static $cookieFile = '/tmp/rutracker_cookies';
