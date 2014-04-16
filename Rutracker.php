@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by #ROOT.
- * to contact me use skype" => neronmoon
+ * to contact me use skype neronmoon
  */
 class RutrackerAPI
 {

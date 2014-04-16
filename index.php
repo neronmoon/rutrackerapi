@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: 1
- * Date: 14.04.14
- * Time: 13:00
+ * Created by #ROOT.
+ * to contact me use skype neronmoon
  */
 
 
