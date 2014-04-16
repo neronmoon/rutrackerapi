@@ -9,10 +9,10 @@
 
 include_once 'Rutracker.php';
 
-$r = new Rutracker('neronmoon', '5588898');
+$r = new Rutracker('<login>', '<pass>');
 
-//$r->findUser('neronmoon');
+$r->findUser('<login>');
+
 $r->search([
-    "term" => "Пингвины мистера Поппера",
-    "order_by" => "seeders"
+    "term" => "<term>",
 ]);
